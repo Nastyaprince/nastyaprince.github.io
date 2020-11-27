@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    line-height: 1,5;
+    background-color: white;
+}
+h1 {
+color: yellowgreen 
+}
+p {
+    color: red;
+    font-style: italic;
+}
+li {
+    color: black;
+}
